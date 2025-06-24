@@ -1,3 +1,10 @@
+[Umesh]: This is the only hand-written line in the entire project. Rest of the project is built by cursor (and with telling it what to do and where to debug, of course). Built a basic web app that uses Livekit webrtc SDK to provide conference room experience. Tested on localhost only. Didn't build other basic features like audio/video mute/unmute, dominant speaker etc for now. 
+
+![image](https://github.com/user-attachments/assets/33e01d3b-237a-4009-8882-daba089fbe21)
+
+<img width="805" alt="Screenshot 2025-06-23 at 5 37 46 PM" src="https://github.com/user-attachments/assets/cf0066df-0544-4823-9d7c-021c2f9183c7" />
+
+
 # Simple WebRTC Conference Room App
 
 A complete WebRTC-based conference room application using LiveKit for real-time audio/video communication. Features a React frontend with room creation/joining capabilities and a Node.js backend API.
